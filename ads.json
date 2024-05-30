@@ -1,0 +1,21 @@
+[
+  {
+    "image": "https://edu-vita.vercel.app/img/UB.png",
+    "title": "TireUnblocker",
+    "description": "A web proxy that uses uv so you can search the web privately!",
+    "url": "https://T.lema.cl"
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "Ad 2 Title",
+    "description": "Description for Ad 2.",
+    "url": "#"
+  },
+  {
+    "image": "https://via.placeholder.com/150",
+    "title": "Ad 3 Title",
+    "description": "Description for Ad 3.",
+    "url": "#"
+  }
+  // Add more ads as needed
+]
